@@ -1,0 +1,23 @@
+{
+  "name": "sorttable.js",
+  "version": "1.1.5",
+  "description": "Sorttable is a simple script that adds sortability to data tables using native JavaScript",
+  "main": "js/sorttable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Tables",
+    "Sorting",
+    "Data",
+    "JavaScript"
+  ],
+  "author": "Stephen M Irving",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-google": "^0.14.0",
+    "jsdom": "^24.0.0",
+    "prettier": "3.2.4"
+  }
+}
